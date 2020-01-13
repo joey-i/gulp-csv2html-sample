@@ -1,0 +1,21 @@
+{
+  "name": "gulp-csv2html-sample",
+  "version": "1.0.0",
+  "description": "Sample: creating html files from csv data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "http-server": "http-server ./html --silent -p 3000"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "csv-parser": "^2.3.2",
+    "fs": "0.0.1-security",
+    "gulp": "^4.0.2",
+    "gulp-ejs": "^5.0.0",
+    "gulp-load-plugins": "^2.0.2",
+    "gulp-rename": "^2.0.0",
+    "http-server": "^0.12.1"
+  }
+}
