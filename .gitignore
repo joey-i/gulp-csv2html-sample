@@ -1,6 +1,6 @@
 ### npm ###
 node_modules/
-.package-lock.json
+package-lock.json
 
 
 # Created by https://www.gitignore.io/api/macos,visualstudiocode
